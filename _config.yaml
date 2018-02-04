@@ -15,7 +15,7 @@ title                    : "eh, hi"
 title_separator          : "-"
 name                     : &name "martin" # &name is a YAML anchor which can be *referenced later
 description              : &description "just a blog, nothing else"
-url                      : https://botto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://martinmoen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "botto/botto.github.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
